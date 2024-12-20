@@ -90,3 +90,6 @@ https://www.tensorflow.org/js/
 
 Com certeza tem muito mais recursos usando o Javascript. Talvez seja mais fácil dizer o que não se consegue fazer com Javascript do que o que se consegue.
 
+## Como criar um jogo SIMPLES usando JavaScript
+
+https://www.youtube.com/watch?v=r9buAwVBDhA
